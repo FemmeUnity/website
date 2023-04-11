@@ -143,3 +143,12 @@ footer a:hover {
 	border-radius: 50%;
 }
 
+@media(max-width: 576px) {
+ .socials {
+	padding: 50px 0px 0px 0px;
+	align-items: center;
+	display: block;
+
+ }
+ 
+}
