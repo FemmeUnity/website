@@ -166,3 +166,7 @@ footer a:hover {
 	bottom: 0;
 	z-index: -1;
   }
+
+  .ontop {
+	z-index: 10;
+  }
