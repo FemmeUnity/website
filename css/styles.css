@@ -60,7 +60,19 @@ footer a:hover {
 	
 }
 
+
 .image-div-team {
+	background-color: #fffcf8;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 50px 
+
+}
+
+
+.image-div-values {
 	background-color: #fffcf8;
 
 	display: flex;
