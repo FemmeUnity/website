@@ -1,28 +1,20 @@
-# prj4-group-template
+# Femme Unity Website
 
-### A template for creating a group website
+### Some information about our website 
 
-This one page example uses the following patterns:
-- A navigation bar
-- A hero section with two buttons and a gradient background
-- A carousel with three images
-- A grid with cards and placeholder images
-- A footer
-- Some CSS customization: navigation bar, hero section and body have their own background color
-- Google Fonts: <https://fonts.google.com/specimen/Raleway>
+Hello, we are Femme Unity, a yoga company designed for single middle aged mothers living in the Netherlands.
+On our website you will be able to get informed on several aspects of our company, such as our values, our vision 
+and our services. Additionally, you will get an insight on who you will be working with if you would want to sign 
+up for a yoga class!
 
-### See it at work!
+Thank you for visiting, and we hope to see you in person soon!
 
-The project is published at <https://buas-media-interactive.github.io/prj4-group-template>
+### Take a look!
 
-### Create your own group website
+The project is published at <https://femmeunity.github.io/website
 
-Click on [Use this template](https://github.com/buas-media-interactive/prj4-group-template/generate) to create a new repository for your group website.
 
-Please check the comments in [index.html](https://github.com/buas-media-interactive/prj4-group-template/blob/main/index.html) and [css/styles.css](https://github.com/buas-media-interactive/prj4-group-template/blob/css/styles.css) as well as the [Bootstrap 5.1 Documentation](https://getbootstrap.com/docs/5.1/) for help with customizing the template.
+### Image and video credits
 
-### Image credits
-
-Social media icons: FontAwesome - <https://fontawesome.com/> - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
-
-Photos of the campus were taken by Raphaël Velt © [Breda University of Applied Sciences](https://www.buas.nl/)
+For our website we used several copyright free pictures and videos. The credits to this material will be found in 
+corporate, under "credits material Femme Unity". 
