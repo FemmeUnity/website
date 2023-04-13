@@ -60,6 +60,14 @@ footer a:hover {
 	
 }
 
+.image-div-comingsoon {
+	background-image: url("../images/yoga/woman\ yoga\ home\ page\ crop2.jpg");
+	background-size: cover;
+	background-position: center;
+	/* height: 100%; */
+	display: flex;
+	justify-content: space-between;	
+}
 
 .image-div-team {
 	background-color: #fffcf8;
