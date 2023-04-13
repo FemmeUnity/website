@@ -170,3 +170,7 @@ footer a:hover {
  .ontop {
 	z-index: 10;
   }
+
+  .image-div-comingsoon.html {
+background-image: url("../images/yoga/woman\ yoga\ home\ page.jpg");
+  }
