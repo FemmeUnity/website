@@ -51,7 +51,7 @@ footer a:hover {
 }
 
 .image-div-about {
-	background-image: url("../images/yoga/woman\ meditatingcropdreamy.jpg");
+	background-image: url("../images/yoga/woman\ meditatingcropdreamy.2.jpg");
 	background-size: cover;
 	background-position: center;
 	/* height: 100%; */
@@ -75,7 +75,8 @@ footer a:hover {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	padding-top: 50px 
+	padding-top: 50px;
+	
 
 }
 
@@ -152,10 +153,11 @@ footer a:hover {
 
 .team-background {
 	background-color: #c66e4e;
-	padding-top: 20px	;
+	padding-top: 20px;
 	padding-inline: 5px;
 	margin: 5px;
     width: 350px;
+	padding-bottom: 30px;
 }
 
 .team-background img {
@@ -180,7 +182,7 @@ footer a:hover {
   }
 
   .image-div-comingsoon.html {
-background-image: url("../images/yoga/woman\ yoga\ home\ page.jpg");
+  background-image: url("../images/yoga/woman\ yoga\ home\ page.jpg");
   }
 
   @media (max-width: 1000px) {
